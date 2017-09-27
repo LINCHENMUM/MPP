@@ -1,0 +1,6 @@
+package Book;
+
+public enum Genre {
+
+	COMEDY,DRAMA,SCIFICTION,ROMANCE,TRAGEDY,SATIRE,IT
+}
